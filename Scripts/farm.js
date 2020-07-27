@@ -9,7 +9,7 @@
 // @updateURL https://github.com/pingudiogo/TribalWars/raw/master/Scripts/farm.js
 // @downloadURL https://github.com/pingudiogo/TribalWars/raw/master/Scripts/farm.js
 // ==/UserScript==
-
+// PARABÉNS MANO, EXPERIÊNCIA DE USUÁRIO SHOW!
 var farmSettingsVersion = "1.1";
 var error = false;
 var assetVersion = TribalWars.getGameData().version.split(" ")[0];
